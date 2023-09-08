@@ -1,0 +1,120 @@
+/*  ========================================================================================
+    exercises6.1 
+============================================================================================= 
+.first{
+    border:2px solid black;
+    height: 300px;
+}
+header{
+    background-color: orange;
+    height: 35px;
+    text-align: center;
+}
+.sid{
+    background-color: green;
+    height: 200px;
+    padding: 5px;
+    margin-left: 25% ;
+    width: 120px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+   
+}
+main{
+    background-color: purple;
+    height: 200px;
+    padding: 5px;
+    margin-left: 35% ;
+    margin-right: 25%;
+    margin-bottom: 5px;
+    margin-top: -215px;
+   
+
+}
+footer{
+    background-color: blue;
+    height: 35px;
+    text-align: center;
+}
+
+
+
+header,
+footer{
+    margin-left: 25% ;
+    margin-right: 25%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}*/
+/*  ========================================================================================
+    exercises6.2
+============================================================================================= */
+body{
+    background-color: rgb(10, 15, 68);
+}
+.maindiv{
+    border:5px solid #000000;
+    height: 255px;
+    margin-top: 10%;
+ 
+    border-radius: 20px;
+
+
+}
+.h1{
+    background-color: aquamarine;
+    margin:  -1.5% 25% 0% ;
+    text-align: center ;
+    
+
+}
+
+.num1{
+    background-color: aquamarine;
+    margin:  -1% 67% 0% 41%;
+    height:200px ;
+    width: 452px;
+
+
+}
+.img{
+    border: 5px solid aquamarine;
+    margin-top: -15% ;
+    margin-left: 25%;
+  width: 200px;
+  height: 190px;
+  border-radius: 16px;
+}
+.second{
+    border:5px solid #000000;
+    height: 255px;
+    margin-top: 10%;
+   
+    border-radius: 20px;
+
+
+}
+.header{
+    background-color: aquamarine;
+    margin:  -1.5% 25% 0% ;
+    text-align: center ;
+}
+.par{
+    background-color: aquamarine;
+    margin:  -1% 67% 0% 41%;
+    height:200px ;
+    width: 452px;
+
+
+}
+.img_2{
+    border: 5px solid aquamarine;
+    margin-top: -15% ;
+    margin-left: 25%;
+  width: 200px;
+  height: 190px;
+  border-radius: 16px;
+  background-color: aquamarine;
+}
+
+
