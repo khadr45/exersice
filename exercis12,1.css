@@ -1,0 +1,8 @@
+a:after{
+content: "for more information ";
+color: black;
+}
+a::before{
+content: "please visit this page ";
+color: black;
+}

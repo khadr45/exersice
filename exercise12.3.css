@@ -1,0 +1,38 @@
+div{
+    background-color: red;
+    color: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+
+}
+div::before{
+    content: "";
+    background-color: rgb(38, 0, 255);
+    color: rgb(38, 0, 255);
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    opacity: 0.5%s;
+}
+div:hover{
+    background-color: purple;
+    color: purple;
+    width: 100px;
+    height: 100px;
+    position: relative;
+
+}
+ div::before:hover{
+    content: "";
+    background-color: rgb(38, 0, 255);
+    color: rgb(38, 0, 255);
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    opacity: 0.5%s;
+} 

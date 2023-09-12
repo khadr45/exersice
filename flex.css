@@ -1,0 +1,203 @@
+/* div{
+    flex-direction: row;
+    flex-direction: column;
+    align-items: center,flex-start;
+    /*  in center cross in column 
+    justify-content: center,flex-start,space-around;
+     /*  in center cross in row */
+     /* faragh = space-around */
+     /* flex start* 
+}
+ 
+
+.el1{
+order:1;
+/* or tow 
+} */
+/* 
+   ===================================================================================
+   exercise 11.1
+   ===================================================================================
+ */
+/*  number one  */
+/* .els{
+  background-color: #eee;
+  flex-direction: row;
+  align-items:flex-end;
+  justify-content:flex-end;
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+
+    }
+.el1{
+    background-color: green;
+    color: green;
+    width: 100px;
+    height: 100px;
+
+}
+.el2{
+    background-color: blue;
+    color: blue;
+    width: 100px;
+    height: 100px;
+
+}
+.el3{
+    background-color: red;
+    color: red;
+    width: 100px;
+    height: 100px;
+
+
+} */
+/* number tow 
+.els{
+    background-color: #eee;
+    flex-direction:row;
+    align-items:flex-start;
+    justify-content:space-between;
+    height:50vh;
+    width: 100vh;
+    display: flex;
+  
+      }
+  .el1{
+      background-color: green;
+      color: green;
+      width: 100px;
+      height: 100px;
+  
+  }
+  .el2{
+      background-color: blue;
+      color: blue;
+      width: 100px;
+      height: 100px;
+  
+  }
+  .el3{
+      background-color: red;
+      color: red;
+      width: 100px;
+      height: 100px;
+  
+  
+  }
+  */
+/* 
+   ===================================================================================
+   exercise 11.2
+   ===================================================================================
+
+.els{
+    background-color: #eee;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+    height:50vh;
+    width: 100vh;
+    display: flex;
+  
+      }
+  .el1{
+      background-color: green;
+      
+      width: 100px;
+      height: 100px;
+  
+  }
+  .el2{
+      background-color: blue;
+      
+      width: 100px;
+      height: 100px;
+  
+  }
+  .el3{
+      background-color: red;
+    
+      width: 100px;
+      height: 100px;
+  
+  
+  }*/
+  /* 
+   ===================================================================================
+   exercise 11.3
+   ===================================================================================
+
+
+.els{
+    background-color: #eee;
+    flex-direction:row;
+    align-items:flex-end;
+    justify-content:flex-end;
+    height:50vh;
+    width: 100vh;
+    display: flex;
+  
+      }
+  .el1{
+      background-color: green;
+      
+      width: 100px;
+      height: 100px;
+  
+  }
+  .el2{
+      background-color: blue;
+      
+      width: 100px;
+      height: 100px;
+  
+  }
+  .el3{
+      background-color: red;
+    
+      width: 100px;
+      height: 100px;
+  
+  
+  }*/
+  /* 
+  ===================================================================================
+   exercise 11.4
+   ===================================================================================
+   */
+   .els{
+    background-color: #eee;
+    flex-direction:column;
+    align-items:flex-start;
+    justify-content: space-around;
+    height:80vh;
+    width: 100vh;
+    display: flex;
+  
+      }
+  .el1{
+      background-color: green;
+      
+      width: 100px;
+      height: 100px;
+  
+  }
+  .el2{
+      background-color: blue;
+      
+      width: 100px;
+      height: 100px;
+  
+  }
+  .el3{
+      background-color: red;
+    
+      width: 100px;
+      height: 100px;
+  
+  
+  }
+   
+
+

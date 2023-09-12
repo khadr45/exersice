@@ -1,0 +1,17 @@
+a{
+    color: #00bfff;
+    visibility: visible;
+    position: relative;
+   
+
+}
+a:hover::after{
+    color: black;
+    content: " hello ";
+    visibility: visible;
+    border: 2px solid black;
+    border-radius: 4px;
+position: relative;
+top: 10%;
+
+}
