@@ -1,0 +1,26 @@
+.num1{
+    background-color: aquamarine;
+    color: aquamarine;
+    width: 100px;
+    height: 100px;
+    /* visibility: visible; */
+    position: relative;
+    top: 0%;
+    left: 20%;
+ 
+}
+.num1::after{
+    content: "";
+    background-color: blue;
+    color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+    /* display: block;            */
+    transition-duration: 2s;
+ 
+}
+.num1:hover::after{
+width: 0px;
+} 
